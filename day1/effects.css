@@ -1,0 +1,98 @@
+.new{
+    color:aqua;
+    display: flex;
+     align-items:center ;
+     justify-content: center;
+}
+.details{
+    color:black;
+    background-color:aquamarine;
+    padding: 10px;
+    
+
+    
+}
+.details a{
+    color: black;
+    padding: 150px;
+}
+.pagenext{
+    color:cyan;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    transition:5s;
+    padding-top: 100px;
+    flex-direction: column;
+}
+
+.aboutpage{
+    background-color: cyan;
+}
+
+.skills{
+    margin-left: 50px;
+    color: cyan;
+    
+}
+
+.skills img{
+    width:150px;
+    height:150px;
+   
+    padding-top: 50px;
+}
+.education{
+    background-color: aqua;
+}
+.education h1{
+    transition:5s;
+    color:blue;
+}
+.education h2{
+    transition:5s;
+    color:black
+}
+.education h3{
+    padding:20px;
+    flex-direction: column;
+}
+.contact h1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:aqua
+
+}
+.contact form{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: cyan;
+    
+}
+.iframe{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.form button{
+    background-color:green;
+    padding: 10px;
+    
+    
+}
+.form button:hover{
+    background-color: aqua;
+}
+
+
+
+
+

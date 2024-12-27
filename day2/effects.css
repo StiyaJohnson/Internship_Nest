@@ -1,0 +1,43 @@
+nav {
+    background-color: blue;
+}
+.card {
+    height: 20px; /* Adjust the height as needed */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+form {
+    background-color: #f8f9fa; /* Light grey background */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    padding: 20px; /* Padding inside the form */
+}
+
+form label {
+    font-weight: bold; /* Bold labels */
+    margin-top: 10px; /* Space above labels */
+}
+
+form input {
+    width: 100%; /* Full width inputs */
+    padding: 10px; /* Padding inside inputs */
+    margin-top: 5px; /* Space above inputs */
+    border: 1px solid #ced4da; /* Light grey border */
+    border-radius: 5px; /* Rounded corners */
+}
+
+form button {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: blue; /* White text */
+    padding: 10px 20px; /* Padding inside button */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    margin-top: 20px; /* Space above button */
+}
+
+form button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
